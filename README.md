@@ -1,6 +1,6 @@
 <img align="right" style="float:right; clear:both; display: block;" src="doc/images/robocivix-logo-128.svg">
 
-- [What is RoboCivix](#what-is-robocivix)
+- [RoboCivix](#robocivix)
 	- [Civilization Simulation Overview](#civilization-simulation-overview)
 	- [Immutable Historical Record](#immutable-historical-record)
 	- [Simplicity and Emergence](#simplicity-and-emergence)
@@ -8,7 +8,7 @@
 	- [Creative World Building](#creative-world-building)
 	- [Eternal Operation](#eternal-operation)
 
-# What is RoboCivix
+# RoboCivix
 RoboCivix is a simulation that forms a universe of interconnected civilizations, each crafted by individual contributors. It's defined by its evolving history, shaped by the interactions between these unique worlds. Once part of RoboCivix, a world's history becomes permanent, contributing to the universe's immutable past.
 
 At its core, RoboCivix operates on simple yet powerful fundamental rules, from which complex social behaviors and civilizations emerge organically, without predetermined outcomes. Contributors, acting as the architects of their worlds, steer their civilizations by programming the actions and decisions of robots, navigating towards unforeseen futures.
