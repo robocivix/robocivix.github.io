@@ -1,8 +1,5 @@
-# RoboCivix
-
 <img align="right" style="float:right; clear:both; display: block;" src="doc/images/robocivix-logo-128.svg">
 
-- [RoboCivix](#robocivix)
 - [What is RoboCivix](#what-is-robocivix)
 	- [Civilization Simulation Overview](#civilization-simulation-overview)
 	- [Immutable Historical Record](#immutable-historical-record)
@@ -17,7 +14,6 @@ RoboCivix is a simulation that forms a universe of interconnected civilizations,
 At its core, RoboCivix operates on simple yet powerful fundamental rules, from which complex social behaviors and civilizations emerge organically, without predetermined outcomes. Contributors, acting as the architects of their worlds, steer their civilizations by programming the actions and decisions of robots, navigating towards unforeseen futures.
 
 Designed to operate indefinitely on a decentralized network, RoboCivix ensures continuity and growth through the collective engagement of its contributors, making it a perpetually live universe.
-
 
 ## Civilization Simulation Overview
 <img align="right" style="float:right; clear:both; display: block;" src="doc/images/robocivix-universe.svg">
