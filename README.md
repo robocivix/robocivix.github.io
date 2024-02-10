@@ -63,5 +63,9 @@ Aimed to persist indefinitely, RoboCivix thrives on a decentralized network, ens
 		alt="chat on Discord"></a>
 
 <a href="https://www.reddit.com/r/RoboCivix/">
-	<img src="https://img.shields.io/badge/reddit-RoboCivix-blue?logo=reddit"
+	<img src="https://img.shields.io/badge/Community-blue?logo=reddit"
 		alt="Reddit"></a>
+
+<a href="https://robocivix.github.io/">
+	<img src="https://img.shields.io/badge/Source_code-blue?logo=github"
+		alt="Robocivix Source Code"></a>
