@@ -7,6 +7,7 @@
 	- [Dynamic Social Structures](#dynamic-social-structures)
 	- [Creative World Building](#creative-world-building)
 	- [Eternal Operation](#eternal-operation)
+- [Next](#next)
 
 # RoboCivix
 RoboCivix is a simulation that forms a universe of interconnected civilizations, each crafted by individual contributors. It's defined by its evolving history, shaped by the interactions between these unique worlds. Once part of RoboCivix, a world's history becomes permanent, contributing to the universe's immutable past.
@@ -55,3 +56,12 @@ Contributors shape their own worlds within RoboCivix, programming robots to cult
 Aimed to persist indefinitely, RoboCivix thrives on a decentralized network, ensuring its continuity as long as contributor nodes remain active.
 
 <br/><br/>
+
+# Next
+<a href="https://discord.gg/bZBDRapczM">
+	<img src="https://img.shields.io/discord/1203954289232580628?logo=discord"
+		alt="chat on Discord"></a>
+
+<a href="https://www.reddit.com/r/RoboCivix/">
+	<img src="https://img.shields.io/badge/reddit-RoboCivix-blue?logo=reddit"
+		alt="Reddit"></a>
