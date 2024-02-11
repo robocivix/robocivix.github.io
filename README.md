@@ -1,4 +1,4 @@
-<img align="right" style="float:right; clear:both; display: block;" src="doc/images/robocivix-logo-128.svg">
+<img align="right" style="float:right; clear:both; display: block; width:128px; height:128px" src="doc/logo/robocivix-logo-light.svg">
 
 - [RoboCivix](#robocivix)
 	- [Civilization Simulation Overview](#civilization-simulation-overview)
