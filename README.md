@@ -8,6 +8,8 @@
 	- [Creative World Building](#creative-world-building)
 	- [Eternal Operation](#eternal-operation)
 - [Next](#next)
+- [RoboCivix News](#robocivix-news)
+- [RoboCivix Chronology](#robocivix-chronology)
 
 # RoboCivix
 RoboCivix is a simulation that forms a universe of interconnected civilizations, each crafted by individual contributors. It's defined by its evolving history, shaped by the interactions between these unique worlds. Once part of RoboCivix, a world's history becomes permanent, contributing to the universe's immutable past.
@@ -58,6 +60,7 @@ Aimed to persist indefinitely, RoboCivix thrives on a decentralized network, ens
 <br/><br/>
 
 # Next
+
 <a href="https://discord.gg/bZBDRapczM">
 	<img src="https://img.shields.io/discord/1203954289232580628?logo=discord"
 		alt="chat on Discord"></a>
@@ -69,3 +72,14 @@ Aimed to persist indefinitely, RoboCivix thrives on a decentralized network, ens
 <a href="https://github.com/robocivix/">
 	<img src="https://img.shields.io/badge/Source_code-blue?logo=github"
 		alt="Robocivix Source Code"></a>
+
+<br/><br/>
+
+# RoboCivix News
+
+# RoboCivix Chronology
+| Date         | Event|
+| ------------ | ---- |
+| R02024-01-01 | The First Year of the New Era of Robots |
+
+
