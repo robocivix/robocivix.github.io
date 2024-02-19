@@ -78,6 +78,7 @@ Aimed to persist indefinitely, RoboCivix thrives on a decentralized network, ens
 # RoboCivix News
 
 # RoboCivix Chronology
+
 | Date         | Event|
 | ------------ | ---- |
 | R02024-01-01 | The First Year of the New Era of Robots |
